@@ -10,7 +10,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "install-artifact-from-github": "^1.2.0",
+    "install-artifact-from-github": "ocavue/install-artifact-from-github#debug",
     "nan": "^2.14.2",
     "node-gyp": "^7.1.2"
   },
